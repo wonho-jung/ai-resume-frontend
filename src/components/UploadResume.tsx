@@ -27,11 +27,12 @@ const UploadResume = () => {
       });
 
       if (response.ok) {
-        // 성공된 text를 받아옴
+        // // 성공된 text를 받아옴
         const data = await response.json();
-        const extractedText = data.text;
+        console.log("파일 업로드 성공", data);
 
-        console.log("파일 업로드 성공", extractedText);
+        // console.log("파일 업로드 성공", extractedText);
+        console.log("success");
       } else {
         console.log(response.status, response.statusText);
         throw new Error("Failed to upload file");
