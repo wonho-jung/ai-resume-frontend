@@ -3,11 +3,6 @@ import React, { useEffect, useRef } from "react";
 
 const UploadResume = () => {
   const inputRef = useRef<HTMLInputElement>(null);
-  // useEffect(() => {
-  //   fetch("http://localhost:8000/upload").then((response) => {
-  //     console.log(response);
-  //   });
-  // }, []);
 
   const handleUpload = async () => {
     const uploadFile = inputRef.current?.files?.[0];
