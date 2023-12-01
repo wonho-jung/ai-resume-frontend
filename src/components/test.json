@@ -1,0 +1,69 @@
+{
+  "name": "Samuel(wonho) Jung",
+  "contact_info": {
+    "location": "Montreal, QC",
+    "phone": "+1)514-464-4399",
+    "email": "wonho.jung@gmail.com",
+    "linkedin": "https://www.samjung108.com/",
+    "github": "https://github.com/wonho-jung",
+    "portfolio": "https://www.samjung108.com/"
+  },
+  "skills": ["JavaScript", "Typescript", "CSS", "HTML", "Node.js"],
+  "summary": "",
+  "education": [
+    {
+      "university": "Ibpearson",
+      "major": "Computer support",
+      "degree": "",
+      "dates": "Aug 2018 - Jan 2021",
+      "location": ""
+    }
+  ],
+  "jobs": [
+    {
+      "title": "Freelance Frontend developer",
+      "company": "Daypart Al",
+      "dates": "Aug 2023 - Oct 2023",
+      "responsibilities": [
+        "Developed dynamic web dashboards with Flask, JavaScript, Bulma, Sass and Plotly. Included ROAS charts, maps, CPM and more for data-rich, user-friendly experiences.",
+        "Working collaboratively with a UI/UX designer to translate design concepts into fully functional dashboards, ensuring a cohesive and user-centric interface.",
+        "Developed an internal publisher tool that enables team non-developers to update and edit publisher data easily."
+      ]
+    },
+    {
+      "title": "Frontend developer",
+      "company": "Decibel ads",
+      "dates": "Sep 2021 - July 2023",
+      "responsibilities": [
+        "Contributing to the development and improvement of the Decibel app from its first version to Decibel Version 3. Leveraged modern technologies like React, Unstated-Next, TypeScript and Netlify to deliver exceptional user experiences.",
+        "Implemented responsive design, making the Decibel app fully compatible and user-friendly across mobile devices.",
+        "Designed and built new flow steps, including Geo search, Dayparting selector, and reusable design components, enhancing ad creation capabilities.",
+        "Developed and deployed user authentication features, including a robust password reset functionality, utilizing Firebase, enhancing security and user convenience.",
+        "Developed and Embedded a forecasting tool and example audio ads library into the landing page, increasing traffic and engagement.",
+        "Created an independent 'Try it out' section on the new landing page, providing users with a preview of 27 types of ads. Leveraged Firebase storage to enable this feature without requiring users to create a campaign.",
+        "Analyzed user data and implemented strategies to reduce user drop-off, improving user retention and engagement."
+      ]
+    },
+    {
+      "title": "Intern Frontend developer",
+      "company": "Ib.Pearson",
+      "dates": "Nov 2020 - Mar 2021",
+      "responsibilities": [
+        "Assisted designing the school website with HTML, JavaScript, jQuery and Bootstrap.",
+        "Implemented new content on the landing page for the customer-facing application and bug fixes for the existing bugs."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Wontify",
+      "technologies": "React.js, TypeScript, Material-UI, Styled-components, Redux-toolkit, Express, MongoDB, Netlify",
+      "descriptions": [
+        "Assisted designing the school website with HTML, JavaScript, jQuery and Bootstrap.",
+        "Implemented new content on the landing page for the customer-facing application and bug fixes for the existing bugs."
+      ],
+      "dates": ""
+    }
+  ],
+  "achievements": []
+}

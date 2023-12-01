@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "test": "jest --coverage --watch",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
@@ -19,12 +19,18 @@
     "react-hook-form": "^7.46.2"
   },
   "devDependencies": {
+    "@babel/preset-typescript": "^7.23.3",
+    "@testing-library/jest-dom": "^6.1.4",
+    "@testing-library/react": "^14.1.0",
+    "@types/jest": "^29.5.8",
     "@types/node": "latest",
     "@types/react": "latest",
     "@types/react-dom": "latest",
     "autoprefixer": "latest",
     "eslint": "latest",
     "eslint-config-next": "latest",
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0",
     "postcss": "latest",
     "tailwindcss": "^3.3.3",
     "typescript": "latest"
